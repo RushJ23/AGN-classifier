@@ -1,0 +1,11 @@
+ipython
+nbconvert
+numpy
+openpyxl
+pandas
+scikit-learn
+seaborn
+matplotlib
+gspread
+google-auth
+google-auth-oauthlib
